@@ -67,5 +67,8 @@ $
 
 ```
 
-
+# Flag
+```
+HTB{1nf1ltr4t1ng_4_cul7_0f_str1ng5}
+```
 
