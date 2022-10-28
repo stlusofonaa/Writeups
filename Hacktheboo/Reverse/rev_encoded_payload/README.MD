@@ -1,12 +1,4 @@
-# Writeups
-HackTheBoo CTF Hackthebox
-
-
-
-
-# Reverse
-
-## Cult Meeting
+## Encoded Payload
 **Description:** Buried in your basement you've discovered an ancient tome. The pages are full of what look like warnings, but luckily you can't read the language! What will happen if you invoke the ancient spells here?
 
 ### Solution 
